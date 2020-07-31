@@ -6,8 +6,7 @@ d8picker.com
 
 |  [DeAndre Johnson](https://github.com/drejohnson)  |  [Jeremy McWilliams](https://github.com/J2Macwilliams)  |  [Daniel Stadler](https://github.com/dstadz)  |  [Mark French](https://github.com/juarezfrench) | [Kenneth Austin](https://github.com/Kennethaustin)  |  [Andrew Ogle](https://github.com/andrewogle)  |
 | :-------: | :---------: | :-------: | :--------: | :---------: | :---------: |
-|    [<img src="./src/img/DeAndre.png" width = "200" />](https://github.com/drejohnson)        </br>Full Stack Web Developer                                            
-|    [<img src="./src/img/Jeremy.jpg" width = "200" />](https://github.com/J2Macwilliams)    </br>Full Stack Web Developer                                           
+|    [<img src="./src/img/DeAndre.png" width = "200" />](https://github.com/drejohnson)        </br>Full Stack Web Developer                                     |    [<img src="./src/img/Jeremy.jpg" width = "200" />](https://github.com/J2Macwilliams)    </br>Full Stack Web Developer                                           
 |    [<img src="./src/img/Daniel.jpg" width = "200" />](https://github.com/dstadz)   </br>Full Stack Web Developer                                                
 |    [<img src="./src/img/Mark.jpg" width = "200" />](https://github.com/juarezfrench)   </br>Full Stack Web Developer                                                
 |    [<img src="./src/img/Kenneth.jpg" width = "200" />](https://github.com/Kennethaustin)    </br>Full Stack Web Developer     
