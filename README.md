@@ -1,13 +1,20 @@
-## Code Climate
-[![Maintainability](https://api.codeclimate.com/v1/badges/3d26f594475564dc6550/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/school-calendar-fe/maintainability)
-
-[![Test Coverage](https://api.codeclimate.com/v1/badges/3d26f594475564dc6550/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/school-calendar-fe/test_coverage)
-
-# School Calendar
+# D8Picker
 d8picker.com
 
 
 ## :one:  Developers and Designers
+
+|  [DeAndre Johnson](https://github.com/drejohnson)  |  [Jeremy McWilliams](https://github.com/J2Macwilliams)  |  [Daniel Stadler](https://github.com/dstadz)  |  [Mark French](https://github.com/juarezfrench) | [Kenneth Austin](https://github.com/Kennethaustin)  |  [Andrew Ogle](https://github.com/andrewogle)  |
+| :-------: | :---------: | :-------: | :--------: | :---------: | :---------: |
+|    [<img src="./src/img/DeAndre.png" width = "200" />](https://github.com/drejohnson)        </br>Full Stack Web Developer                                            
+|    [<img src="./src/img/Jeremy.jpg" width = "200" />](https://github.com/J2Macwilliams)    </br>Full Stack Web Developer                                           
+|    [<img src="./src/img/Daniel.jpg" width = "200" />](https://github.com/dstadz)   </br>Full Stack Web Developer                                                
+|    [<img src="./src/img/Mark.jpg" width = "200" />](https://github.com/juarezfrench)   </br>Full Stack Web Developer                                                
+|    [<img src="./src/img/Kenneth.jpg" width = "200" />](https://github.com/Kennethaustin)    </br>Full Stack Web Developer     
+|    [<img src="./src/img/Andrew.jpg" width = "200" />](https://github.com/andrewogle)    </br>Full Stack Web Developer /</br> Team Lead                                   
+|
+| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/AlecDye)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/alecdye/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Gremlin4544) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/alvemckethen/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/c0derbr1t)  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/brittani-luce/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/SyriiAdvent)  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/rudy-goldhaber/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/J2Macwilliams)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jeremy-mcwilliams/) |  |
+
 ~ DeAndre Johnson ~
 ![DeAndre](./src/img/DeAndre.png)
 Github Handle: https://github.com/drejohnson
