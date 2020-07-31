@@ -6,20 +6,20 @@ d8picker.com
 
 |  [DeAndre Johnson](https://github.com/drejohnson)  |  [Jeremy McWilliams](https://github.com/J2Macwilliams)  |  [Daniel Stadler](https://github.com/dstadz)  |  [Mark French](https://github.com/juarezfrench) | [Kenneth Austin](https://github.com/Kennethaustin)  |  [Andrew Ogle](https://github.com/andrewogle)  |
 | :-------: | :---------: | :-------: | :--------: | :---------: | :---------: |
-|    [<img src="./src/img/DeAndre.png" width = "200" />](https://github.com/drejohnson)        </br>Full Stack Web Developer            |    [<img src="./src/img/Jeremy.jpg" width = "200" />](https://github.com/J2Macwilliams)    </br>Full Stack Web Developer               |    [<img src="./src/img/Daniel.jpg" width = "200" />](https://github.com/dstadz)   </br>Full Stack Web Developer                   |    [<img src="./src/img/Mark.jpg" width = "200" />](https://github.com/juarezfrench)   </br>Full Stack Web Developer        |    [<img src="./src/img/Kenneth.jpg" width = "200" />](https://github.com/Kennethaustin)    </br>Full Stack Web Developer     |    [<img src="./src/img/Andrew.jpg" width = "200" />](https://github.com/andrewogle)    </br>Full Stack Web Developer /</br> Team Lead                                   
+|    [<img src="./src/img/DeAndre.png" width = "200" />](https://github.com/drejohnson)        </br>Full Stack Web Developer            |    [<img src="./src/img/Jeremy.jpg" width = "200" />](https://github.com/J2Macwilliams)    </br>Full Stack Web Developer               |    [<img src="./src/img/Daniel.jpg" width = "200" />](https://github.com/dstadz)   </br>Full Stack Web Developer                   |    [<img src="./src/img/Mark.jpg" width = "200" />](https://github.com/juarezfrench)   </br>Full Stack Web Developer        |    [<img src="./src/img/Kenneth.jpg" width = "200" />](https://github.com/Kennethaustin)    </br>Full Stack Web Developer     |         [<img src="./src/img/Andrew.jpg" width = "200" />](https://github.com/andrewogle)    </br>Full Stack Web Developer /</br> Team Lead                                   
 |
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/drejohnson)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/deandrejohnson/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/J2Macwilliams) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jeremy-mcwilliams/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/dstadz)  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/danstad/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/juarezfrench)  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/mark-french-webdev/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/KennethAustin)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in//) |  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/KennethAustin)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/andrewogle)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/andrew-ogle/) | /) | |
 
-~ DeAndre Johnson ~
+<!-- ~ DeAndre Johnson ~
 ![DeAndre](./src/img/DeAndre.png)
 Github Handle: https://github.com/drejohnson
 
 ~ Jeremy McWilliams ~
-![IMG_5896](./src/img/IMG_5896.jpg)
+![Jeremy](./src/img/Jeremy.jpg)
 Github handle: https://github.com/J2Macwilliams
 
 ~ Daniel Stadler ~
-![IMG_4767](./src/img/IMG-4767.JPG)
+![Daniel](./src/img/Daniel.jpg)
 Github handle: https://github.com/dstadz
 
 ~ Mark French ~
@@ -31,8 +31,8 @@ Github handle: https://github.com/juarezfrench
 Github handle: https://github.com/Kennethaustin
 
 ~ Andrew Ogle ~
-![Kenneth](./src/img/Andrew.jpg)
-Github handle: https://github.com/andrewogle
+![Andrew](./src/img/Andrew.jpg)
+Github handle: https://github.com/andrewogle -->
 ## :three: Project Overview
 
 :memo: [Trello Board](https://https://trello.com/b/DsQe2Rf5/school-calendar-main)
