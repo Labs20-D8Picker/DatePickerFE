@@ -94,8 +94,9 @@ const Dashboard = () => {
       summary: summary,
       description: description
     }));
-    console.log('eventList', eventList);
+    // console.log('eventList', eventList);
     eventList.forEach(event => api.addEvent(event));
+    setTemplateFormOpen(false)
     setSelected([]);
   };
 
