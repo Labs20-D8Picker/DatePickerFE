@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import dayjs from 'dayjs';
 import { Heading, Flex, Grid, Box, IconButton } from '@chakra-ui/core';
 import Days from './Days';
@@ -8,11 +8,12 @@ import useDate from '../hooks/useDate';
 const Calendar = ({ api, selected, setSelected, templateFormOpen }) => {
   const currentDay = dayjs();
 
-  // state to display cuurent date
+  // state to display current date
   const [date, setDate] = useState(dayjs());
 
   // state to show users events
   const [events, setEvents] = useState(null);
+  const [load, setLoad] = useState(0);
 
   const {
     // currentDay,
@@ -40,11 +41,14 @@ const Calendar = ({ api, selected, setSelected, templateFormOpen }) => {
       try {
         const data = await api.listEvents();
         setEvents(data);
+        // increment load to trigger re-render
+        setLoad(load +1)
       } catch (error) {
         console.log(error);
       }
     })();
-  }, [api]);
+  }, [api, load]);
+    
 
   return (
     <Box className="calendar" backgroundColor="white" borderRadius="10px">
