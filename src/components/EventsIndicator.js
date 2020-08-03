@@ -14,6 +14,7 @@ const EventIndicator = ({ event, day, currentMonth, currentYear }) => {
     <>
       <Icon name="circle" fill="brand.blue_accent" />
       <div>{event.summary}</div>
+  <div>{dayjs(event.start.dateTime).format('h:m a')}</div>
     </>
   ) : null;
 };

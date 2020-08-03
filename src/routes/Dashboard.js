@@ -13,6 +13,7 @@ import axios from 'axios';
 import { useAuth } from '../contexts/auth';
 import Calendar from '../components/Calendar';
 import Template from '../components/Template';
+import dayjs from 'dayjs';
 
 const getTemplateList = async ({ googleId }) => {
   try {
@@ -63,6 +64,11 @@ const Dashboard = () => {
 
   // Submit for template form
   const onSubmit = async formData => {
+    // add dynamic time zones
+    const zone = dayjs(new Date().toISOString()).format('Z');
+    formData.starttime = formData.starttime + `:00${zone}`;
+    formData.endtime = formData.endtime + `:00${zone}`;
+    
     const template = await addTemplate(formData, currentUser);
     setTemplateList(prevTemplates => [...prevTemplates, template]);
     setFormOpen(false);
@@ -83,8 +89,8 @@ const Dashboard = () => {
 
   const applyTemplate = (summary, description, starttime, endtime) => {
     const eventList = selected.map(e => ({
-      end: { dateTime: `${e}T${endtime}:00-08:00` },
-      start: { dateTime: `${e}T${starttime}:00-08:00` },
+      end: { dateTime: `${e}T${endtime}` },
+      start: { dateTime: `${e}T${starttime}` },
       summary: summary,
       description: description
     }));
