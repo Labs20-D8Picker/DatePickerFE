@@ -1,4 +1,5 @@
 import React from 'react';
+import dayjs from 'dayjs'
 import {
   Flex,
   ButtonGroup,
@@ -23,13 +24,18 @@ const Template = ({
     setTemplateFormOpen(!templateFormOpen);
   };
 
+  // display 12 hour clock for Start and End
+  const newDate = dayjs(new Date().toISOString()).format('YYYY-MM-DDT')
+  const start = dayjs(newDate + starttime).format('h:m a')
+  const end = dayjs(newDate + endtime).format('h:m a')
+  
   return (
     <Flex direction="column" align="center" justify="center" my={2}>
       <Heading fontSize="sm" fontWeight="normal">
         {summary}
       </Heading>
       <Heading fontSize="sm" fontWeight="normal">
-        {starttime}-{endtime}
+        {start}-{end}
       </Heading>
       <Flex>
         <ButtonGroup spacing={4}>
