@@ -1,6 +1,11 @@
 # D8Picker
 d8picker.com
 
+---
+### Status:
+*deployed*
+
+---
 
 ## Full Stack Developers
 
